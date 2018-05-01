@@ -1,0 +1,25 @@
+{
+  "docs": {
+    "status-im/energy-efficient-bok": ["README", "ENERGY_GUIDE_DEV", "iOS_provisioning_workaround", "QA_Android", "QA_iOS", "QA"],
+    "status-im/byteutils": ["byteutils_docs"],
+    "status-im/Nim": ["Nim_files"],
+    "status-im/mpint": ["mpint_files"],
+    "status-im/nim-docker": ["nim-docker_files"],
+    "status-im/nim-eth-bloom": ["nim-eth-bloom_files"],
+    "status-im/nim-eth-keys": ["nim-eth-keys_files"],
+    "status-im/nim-eth-p2p": ["nim-eth-p2p_files"],
+    "status-im/nim-eth-rpc": ["nim-eth-rpc_files"],
+    "status-im/nim-ethash": ["nim-ethash_files"],
+    "status-im/nim-evmc": ["nim-evmc_files"],
+    "status-im/nim-keccak-tiny": ["doc1"],
+    "status-im/nim-ranges": ["doc1"],
+    "status-im/nim-rlp": ["doc1"],
+    "status-im/nim-rlpx": ["doc1"],
+    "status-im/nim-rocksdb": ["doc1"],
+    "status-im/nim-secp256k1": ["nim-secp256k1_files"],
+    "status-im/nim-ttmath": ["nim-ttmath_files"],
+    "status-im/nimbus": ["nimbus_files"],
+    "status-im/nimbus-launch": ["nimbus-launch_files"],
+    "status-im/secp256k1": ["secp256k1_files"]
+  }
+}
