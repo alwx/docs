@@ -1,17 +1,6 @@
----
-id: README
-title: README
-sidebar_label: README
----
+Source code and docs at `master` branch, artifact at `gh-pages`.
 
-
-
-# Energy Efficiency BoK
-
-* [Energy Efficiency Dev Guide](./ENERGY_GUIDE_DEV.md)
-
-* Testing
-    * [Manual battery tests](./QA.md)
-    * Tools for testing energy consumption
-        * [iOS tools](./QA_iOS.md)
-        * [Android tools](./QA_Android.md)
+```
+cd website
+GIT_USER=oskarth CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
+```
