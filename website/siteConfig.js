@@ -21,15 +21,15 @@ const users = [
 const siteConfig = {
   title: 'Test Site' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://acrylic8.github.io/' /* your website url */,
-  baseUrl: '/test3/' /* base url for your project */,
+  url: 'http://status-im.github.io/docs/' /* your website url */,
+  baseUrl: '/docs/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'test3',
-  organizationName: 'acrylic8',
+  projectName: 'docs',
+  organizationName: 'status-im',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
